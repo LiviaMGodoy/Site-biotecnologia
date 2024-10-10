@@ -1,0 +1,165 @@
+body{
+    background-color: #4ebe57;
+}
+.cabecalho{
+   border: 5px solid #775529;
+   display: flex;
+   margin: 50px 150px 50px;
+   justify-content: center;
+   color:#fff;
+   background-color: #ac7f44;
+   width: 1150px;
+   height: 150px;
+}
+.titulo{
+    margin: 10px;
+    font-family: "Edu AU VIC WA NT Guides", cursive;
+    font-style: normal;
+    font-size: 70px;
+    font-weight: 400px;
+    font-optical-sizing: auto;
+}
+.titulo2{
+    margin: 10px;
+    font-family: "Edu AU VIC WA NT Guides", cursive;
+    font-style: normal;
+    font-size: 70px;
+    font-weight: 400px;
+    font-optical-sizing: auto;
+    border: 5px solid #775529;
+   display: flex;
+   margin: 50px 150px 50px;
+   justify-content: center;
+   color:#fff;
+   background-color: #ac7f44;
+   width: 1150px;
+   height: 150px;
+}
+.conteiner{
+    display: flex;
+  align-items: center;
+}
+.texto{
+    font-family: "Poetsen One", sans-serif;
+    font-size: 30px;
+    margin: 20px 40px 0 40px;
+    color: #554024;
+}
+.imgalpor{
+    margin: 40px;
+    border: 5px solid #775529;
+    width: 330px;
+    height: 300px;
+}
+.cabecalho2{
+    border: 5px solid #775529;
+    display: flex;
+    margin: 50px 150px 50px;
+    justify-content: center;
+    color:#fff;
+    background-color: #ac7f44;
+    width: 1150px;
+    height: 150px;
+}
+.outrotitulo{
+    margin: 10px;
+    font-family: "Edu AU VIC WA NT Guides", cursive;
+    font-style: normal;
+    font-size: 70px;
+    font-weight: 400px;
+    font-optical-sizing: auto;
+}
+.conteiner2{
+    display: flex;
+  align-items: center;
+}
+.imgalpor2{
+    margin: 40px;
+    border: 5px solid #775529;
+    width: 330px;
+    height: 300px;
+}
+.texto2{
+    font-family: "Poetsen One", sans-serif;
+    font-size: 40px;
+    margin: 0 5px 0 100px;
+    color: #554024;
+}
+.imgalpor3{
+    margin: 40px;
+    border: 5px solid #775529;
+    width: 330px;
+    height: 300px;
+}
+.conteiner3{
+  align-items: center;
+}
+.lista{
+    font-family: "Poetsen One", sans-serif;
+    font-size: 30px;
+    margin: 10px 5px 0 100px;
+    color: #554024; 
+}
+.it1{
+margin-bottom: 10px;
+}
+.it2{
+    margin-bottom: 10px;
+}
+.it3{
+    margin-bottom: 10px;
+}
+.it4{
+    margin-bottom: 10px;
+}
+.lista2{
+    font-family: "Poetsen One", sans-serif;
+    font-size: 30px;
+    margin: 10px 5px 0 100px;
+    color: #554024;  
+}
+.conteiner4{
+    margin-left: 30px;
+  align-items: center;
+}
+.texto3{
+    font-family: "Poetsen One", sans-serif;
+    font-size: 40px;
+    margin: 0 5px 0 100px;
+    color: #554024;
+}
+.texto4{
+    font-family: "Poetsen One", sans-serif;
+    font-size: 20px;
+    color: #554024;
+}
+.lista3{
+    font-family: "Poetsen One", sans-serif;
+    font-size: 30px;
+    margin: 10px 5px 0 100px;
+    color: #554024; 
+}
+.texto-img{
+    font-family: "Poetsen One", sans-serif;
+    font-size: 20px;
+    color: #554024;
+}
+.lista4{
+    font-family: "Poetsen One", sans-serif;
+    font-size: 30px;
+    margin: 10px 5px 0 100px;
+    color: #554024; 
+}
+.conteiner5{
+  align-items: center;
+    margin-left: 30px;
+}
+.conteiner6{
+    align-items: center;
+    margin-left: 30px;
+}
+.conteiner7{
+    align-items: center;
+    margin-left: 30px;
+ 
+}
